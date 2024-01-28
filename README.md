@@ -18,7 +18,4 @@
 
 
 ## Conclusion :-
-### As of the analysis we can successfully conclude that the number of female students are hisher that the number of male 
-students and score of students whose parent's are well-educated have good marks. The students that have taken and
-completed the test preperation course have scored higher marks than those students who haven't completed the test. Majority
-of students belongs to group C ethnicity/race.
+### As of the analysis we can successfully conclude that the number of female students are higher than the number of male students and score of students whose parent's are well-educated have good marks.The students that have taken and completed the test preperation course have scored higher marks than those students who haven't completed the test. Majority of students belongs to group C ethnicity/race.
